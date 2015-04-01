@@ -1,0 +1,43 @@
+body{
+  background:#FD8F21;
+}
+
+.center{
+  text-align:center;
+}
+.m170{
+  margin-top:170px;
+}
+
+.m280{
+  margin-top:280px;
+}
+.container{
+  width:900px;
+}
+.m40{
+  margin-top:40px
+}
+
+.padding-text{
+  padding-right:73px;
+  padding-left:62px;
+}
+.justify{
+  text-align:justify;
+}
+
+a{
+  color:black;
+}
+
+a:hover{
+  color:white;
+  text-decoration:none;
+}
+.text-equipe{
+  font-size:18px;
+}
+.m100{
+  margin-top:100px;
+}
